@@ -4,7 +4,7 @@ plugins {
 
 android {
     namespace 'com.readmenow.androidlayoutsouthpark'
-    compileSdk 33
+    compileSdk 34
 
     defaultConfig {
         applicationId "com.readmenow.androidlayoutsouthpark"
